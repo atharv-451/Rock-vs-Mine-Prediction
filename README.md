@@ -30,7 +30,7 @@ A predictive system is implemented to make predictions on new data. You can use 
 ![alt text](https://github.com/atharv-451/Rock-vs-Mine-Prediction/blob/main/screenshots/Flowchart.jpg)
 
 ## Usage
-- Clone the repository: 'git clone https://github.com/your_username/rock-vs-mine-prediction.git'
+- Clone the repository: 'git clone https://github.com/atharv-451/Rock-vs-Mine-Prediction.git'
 - Navigate to the project directory: 'cd rock-vs-mine-prediction'
 - Run the main script: 'python main.py'
 
